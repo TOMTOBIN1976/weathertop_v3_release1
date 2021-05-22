@@ -6,7 +6,13 @@ Github Url	            	: https://github.com/TOMTOBIN1976/weathertop_v5_release3
                                   https://github.com/TOMTOBIN1976/weathertop_v3_release1.git 
    
 Deployed URL		: https://frozen-depths-98301.herokuapp.com/
-:
+
+Username: homer@simpson.com
+Password: secret
+
+Usernaem: tomtobin@wit.ie
+Password: secret
+
 WeatherTop Web application developed for assignment 02 
 
 Scope:
@@ -32,7 +38,7 @@ Controllers - contains matching java class controllers as detailed in routes
 Views - displays the information as passed from controllers
 Tags - contains "partial" pages
 Model - contains the model structure
-
+https://github.com/TOMTOBIN1976/weathertop_v5_release3.git
 
 Instructions
 To run the application download to local folder on your computer.
@@ -69,6 +75,8 @@ http://www.extech.com/products/WTH600-KIT
 https://ambientweather.com/amws2902.html#trustspot-widget-wrapper
 https://www.techhive.com/article/3073795/best-home-weather-station-which-one-should-be-your-personal-weatherman.html
 https://wow.met.ie/about-wow/welcome-to-wow
-
-
+https://www.boards.ie/vbulletin/forumdisplay.php?f=374
+https://github.com/TOMTOBIN1976/weathertop_v5_release3.git
 Credits: W.I.T
+
+https://github.com/TOMTOBIN1976/weathertop_v3_release1
